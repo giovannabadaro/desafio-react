@@ -30,10 +30,17 @@ button {
   cursor: pointer;
   margin-top: 15px;
   font-weight: bold;
-  font-size: 14px;
+  font-size: 10px;
+  border-radius: 5px;
+}
+
+li{
+  font-size: 24px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #424242;
 }
 
 div li button {
   margin: 0 15px;
-  background: #ca4949;
+  background:red;
 }
